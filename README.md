@@ -1,9 +1,13 @@
-# Neural Control of Real-World Human Movement
+# Neural Control of Real-World Human Movement - 2023 Summer 1
+- Instructor: Jonathan Samir Matthis
+Course Dates: 8 May 2023 - 27 June 2023
+- Format: Online Asynchronous
 
-## Course Description
-In this interdisciplinary course, students will explore the neural basis of natural human behavior in real-world contexts (e.g., sports, dance, or everyday activities) by investigating the neural control of full-body human movement. The course will cover philosophical, technological, and scientific aspects related to the study of natural behavior while emphasizing hands-on, project-based learning. Students will use free open-source machine-learning and computer-vision-driven tools and methods to record human movement in unconstrained environments.
+### Course Materials and Resources
+- Discord Server: [Invite link to the class Discord server]
+- GitHub Repository: [Link to the class GitHub repository]
+- [Link to Canvas course site]
 
-The course promotes interdisciplinary collaboration and introduces modern techniques for decentralized project management, AI-assisted research techniques, and Python-based programming (No prior programming experience is required). Students will receive training in the use of AI technology for project management and research conduct, including literature review, data analysis, and presentation of results. Through experiential learning, students will develop valuable skills in planning and executing technology-driven research projects while examining the impact of structural inequities on scientific inquiry.
 
 ## Schedule Overview
 
@@ -22,8 +26,7 @@ The course promotes interdisciplinary collaboration and introduces modern techni
 gantt
     dateFormat  YYYY-MM-DD
     title Course Project Schedule
-    axisFormat %a %U
-    
+
     section Prep
     Introduction            :2023-05-08, 7d
 
@@ -43,6 +46,15 @@ gantt
     Wrap up ✨               :2023-06-26, 7d
 
 ```
+
+
+## Course Description
+In this interdisciplinary course, students will explore the neural basis of natural human behavior in real-world contexts (e.g., sports, dance, or everyday activities) by investigating the neural control of full-body human movement. The course will cover philosophical, technological, and scientific aspects related to the study of natural behavior while emphasizing hands-on, project-based learning. Students will use free open-source machine-learning and computer-vision-driven tools and methods to record human movement in unconstrained environments.
+
+The course promotes interdisciplinary collaboration and introduces modern techniques for decentralized project management, AI-assisted research techniques, and Python-based programming (No prior programming experience is required). Students will receive training in the use of AI technology for project management and research conduct, including literature review, data analysis, and presentation of results. Through experiential learning, students will develop valuable skills in planning and executing technology-driven research projects while examining the impact of structural inequities on scientific inquiry.
+
+!!! note "Course Focus"
+    The primary focus is on collaborative work where each student contributes based on their interests/skillsets. While  may not become experts in all areas covered during the course duration, they'll have opportunities to explore different aspects through teamwork.
 
 ## Course Objectives
 - Gain exposure to key concepts related to neural control of human movement.
