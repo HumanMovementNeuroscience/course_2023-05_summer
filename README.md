@@ -5,7 +5,7 @@ Course Dates: 8 May 2023 - 27 June 2023
 
 ### Course Materials and Resources
 - Discord Server: [Invite link to the class Discord server]
-- GitHub Repository: [Link to the class GitHub repository]
+- Hosted website:  https://neuralcontrolhumanmovement-2023-summer1.github.io/main_course_repo/
 - [Link to Canvas course site]
 
 
