@@ -21,27 +21,29 @@ The course promotes interdisciplinary collaboration and introduces modern techni
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title Project Schedule
-
+    title Course Project Schedule
+    axisFormat %a %U
+    
     section Prep
     Introduction            :2023-05-08, 7d
-    
+
     section Plan
-    Planning: :2023-05-15, 7d
-    
+    Planning                :2023-05-15, 7d
+
     section Propose
-    Proposals       :2023-05-22, 7d
-    
-    section Project 
-     Research / Data Collection / Analysis:2023-05-29, 21d
-     
-     section Present 
-      Presentating :2023-06-19, 7d
-      
-      section Wrap up 
-       Wrap up ✨:2023-06-26, 7d
+    Proposals               :2023-05-22, 7d
+
+    section Project
+    Research / Data Collection / Analysis :2023-05-29, 21d
+
+    section Present
+    Presenting              :2023-06-19, 7d
+
+    section Wrap up
+    Wrap up ✨               :2023-06-26, 7d
 
 ```
+
 ## Course Objectives
 - Gain exposure to key concepts related to neural control of human movement.
 - Apply interdisciplinary approaches when collaborating on complex problems.
