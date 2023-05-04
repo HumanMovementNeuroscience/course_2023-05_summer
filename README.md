@@ -4,9 +4,10 @@ Course Dates: 8 May 2023 - 27 June 2023
 - Format: Online Asynchronous
 
 ### Course Materials and Resources
-- Discord Server: [Invite link to the class Discord server]
+- Discord Server: [Invite link on the Canvas page
+- Canvas page: https://northeastern.instructure.com/courses/144116
 - Hosted website:  https://neuralcontrolhumanmovement-2023-summer1.github.io/main_course_repo/
-- [Link to Canvas course site]
+
 
 
 ## Schedule Overview
