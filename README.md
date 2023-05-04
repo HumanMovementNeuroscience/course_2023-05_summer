@@ -54,8 +54,8 @@ In this interdisciplinary course, students will explore the neural basis of natu
 The course promotes interdisciplinary collaboration and introduces modern techniques for decentralized project management, AI-assisted research techniques, and Python-based programming (No prior programming experience is required). Students will receive training in the use of AI technology for project management and research conduct, including literature review, data analysis, and presentation of results. Through experiential learning, students will develop valuable skills in planning and executing technology-driven research projects while examining the impact of structural inequities on scientific inquiry.
 
 !!! note "Course Focus"
-    The primary focus is on collaborative work where each student contributes based on their interests/skillsets. While  may not become experts in all areas covered during the course duration, they'll have opportunities to explore different aspects through teamwork.
-
+    The primary focus is on collaborative work where each student will contribute to a shared research project on their interests/skillsets (e.g. some students will do more programming, others will do more lit reviewing, etc).  
+    
 ## Course Objectives
 - Gain exposure to key concepts related to neural control of human movement.
 - Apply interdisciplinary approaches when collaborating on complex problems.
@@ -79,6 +79,7 @@ The course promotes interdisciplinary collaboration and introduces modern techni
 - Web-based tool: [github.com](https://github.com)
 
 #### Basic Python data analysis
+
 - Software:
   -  [VS Code](https://code.visualstudio.com/) (Primary) 
   -  [PyCharm](https://www.jetbrains.com/pycharm/) (Optional/Advanced)
