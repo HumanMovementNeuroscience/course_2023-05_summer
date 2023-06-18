@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0cdca10f73814368",
+    "type": "split",
+    "children": [
+      {
+        "id": "525b4298fba0b1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd5a109547b8f7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "video_chatter_meta_summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0388a0e7ff0c40c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eee3f157460dcbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ea49ef39ff2d22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "960f79f74e97a193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bb67e142125285b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f00fc75d324ef90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b6708cc5e3d7037",
+    "type": "split",
+    "children": [
+      {
+        "id": "641d772b61d4ad9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719336f0a0b76cf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "video_chatter_meta_summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "516a891ed96c2be2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "video_chatter_meta_summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "850df15ce5a4a86f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd05cbba730c51ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "video_chatter_meta_summary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd5a109547b8f7aa",
+  "lastOpenFiles": [
+    "video_chatter_meta_summary.md",
+    "video_chatter_flip_1.md",
+    "video_chatter_all_summaries.md",
+    "video_chatter_flip_0.md",
+    "student_summaries/video_chatter_ES.md",
+    "student_summaries/video_chatter_SR.md",
+    "student_summaries/video_chatter_PS.md",
+    "student_summaries/video_chatter_BL.md",
+    "student_summaries/video_chatter_GF.md",
+    "student_summaries/video_chatter_CC.md",
+    "student_summaries/video_chatter_TC.md",
+    "student_summaries/video_chatter_YM.md",
+    "student_summaries/video_chatter_AT.md",
+    "student_summaries/video_chatter_DS.md",
+    "student_summaries/video_chatter_JL.md",
+    "student_summaries/video_chatter_GR.md",
+    "student_summaries/video_chatter_MH.md",
+    "student_summaries/video_chatter_UBB.md",
+    "student_summaries/video_chatter_RS.md",
+    "student_summaries/video_chatter_IS.md",
+    "student_summaries/video_chatter_LH.md",
+    "student_summaries/video_chatter_CK.md",
+    "student_summaries/video_chatter_MV.md",
+    "student_summaries",
+    "students/Twitch Streams",
+    "students/freemocap/documentation/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1",
+    "students/freemocap/documentation/venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/tr_TR/LC_MESSAGES",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/zh_CN/LC_MESSAGES",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/pt_BR/LC_MESSAGES",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs_material_extensions-1.1.1.dist-info/licenses",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/uk/LC_MESSAGES",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/ru/LC_MESSAGES",
+    "students/freemocap/documentation/docs/works_in_progress/index.md",
+    "students/freemocap/documentation/README.md",
+    "students/freemocap/documentation/docs/assets/fmc-logo-transparent-bkgd.png",
+    "students/freemocap/documentation/docs/assets/skelly_freemocap_logo.png",
+    "students/freemocap/documentation/docs/roadmap/roadmap.md",
+    "students/freemocap/documentation/docs/assets/icons/skull-sparkle.svg",
+    "students/freemocap/documentation/docs/assets/icons/skull-smile.svg",
+    "students/freemocap/documentation/docs/assets/icons/blender_icon.svg",
+    "students/freemocap/documentation/docs/assets/icons/pencil-solid.svg",
+    "students/freemocap/documentation/docs/assets/icons/skull-solid.svg",
+    "students/old/Untitled 1.canvas",
+    "students/old/Untitled 2.canvas",
+    "students/old/docs/assets/icons/skull-smile.svg",
+    "students/old/docs/assets/icons/blender_icon.svg",
+    "students/old/docs/assets/icons/pencil-solid.svg",
+    "students/old/Untitled 4.canvas",
+    "students/old/Untitled 3.canvas",
+    "students/old/Untitled 1 1.canvas",
+    "students/old/Untitled.canvas"
+  ]
+}
