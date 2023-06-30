@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "0cdca10f73814368",
+    "type": "split",
+    "children": [
+      {
+        "id": "525b4298fba0b1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81962ad9d7028d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0388a0e7ff0c40c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eee3f157460dcbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ea49ef39ff2d22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "960f79f74e97a193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bb67e142125285b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f00fc75d324ef90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b6708cc5e3d7037",
+    "type": "split",
+    "children": [
+      {
+        "id": "641d772b61d4ad9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719336f0a0b76cf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "516a891ed96c2be2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "850df15ce5a4a86f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd05cbba730c51ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "258c9edccd5fa671",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "11a245df2a745757",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "b81962ad9d7028d0",
+  "lastOpenFiles": [
+    "green_check_messages/green_check_messages_IS.md",
+    "green_check_messages/green_check_messages_LH.md",
+    "green_check_messages/green_check_messages_GF.md",
+    "video_chatter/student_summaries/video_chatter_IS.md",
+    "green_check_messages/green_check_messagesIS.md",
+    "video_chatter/student_summaries/video_chatter_YM.md",
+    "video_chatter/student_summaries/video_chatter_UBB.md",
+    "video_chatter/student_summaries/video_chatter_TC.md",
+    "video_chatter/student_summaries/video_chatter_SR.md",
+    "video_chatter/student_summaries/video_chatter_RS.md",
+    "video_chatter/student_summaries/video_chatter_PS.md",
+    "video_chatter/student_summaries/video_chatter_MV.md",
+    "video_chatter/student_summaries/video_chatter_MH.md",
+    "video_chatter/student_summaries/video_chatter_LH.md",
+    "video_chatter/student_summaries/video_chatter_JL.md",
+    "video_chatter/student_summaries/video_chatter_GR.md",
+    "video_chatter/student_summaries/video_chatter_GF.md",
+    "video_chatter/student_summaries/video_chatter_ES.md",
+    "video_chatter/student_summaries/video_chatter_DS.md",
+    "video_chatter/student_summaries/video_chatter_CK.md",
+    "video_chatter/student_summaries/video_chatter_CC.md",
+    "video_chatter/student_summaries/video_chatter_BL.md",
+    "video_chatter/student_summaries/video_chatter_AT.md",
+    "video_chatter/student_summaries",
+    "video_chatter/video_chatter_meta_summary.md",
+    "video_chatter/video_chatter_flip_1.md",
+    "video_chatter/video_chatter_flip_0.md",
+    "video_chatter",
+    "green_check_messages",
+    "student_summaries",
+    "students/Twitch Streams",
+    "students/freemocap/documentation/venv/Lib/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1",
+    "students/freemocap/documentation/venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/tr_TR/LC_MESSAGES",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/zh_CN/LC_MESSAGES",
+    "students/freemocap/documentation/venv/Lib/site-packages/mkdocs/themes/readthedocs/locales/pt_BR/LC_MESSAGES",
+    "students/freemocap/documentation/docs/assets/fmc-logo-transparent-bkgd.png",
+    "students/freemocap/documentation/docs/assets/skelly_freemocap_logo.png",
+    "students/freemocap/documentation/docs/assets/icons/skull-sparkle.svg",
+    "students/freemocap/documentation/docs/assets/icons/skull-smile.svg",
+    "students/freemocap/documentation/docs/assets/icons/blender_icon.svg",
+    "students/freemocap/documentation/docs/assets/icons/pencil-solid.svg",
+    "students/freemocap/documentation/docs/assets/icons/skull-solid.svg",
+    "students/old/Untitled 1.canvas",
+    "students/old/Untitled 2.canvas",
+    "students/old/docs/assets/icons/skull-smile.svg",
+    "students/old/docs/assets/icons/blender_icon.svg",
+    "students/old/docs/assets/icons/pencil-solid.svg",
+    "students/old/Untitled 4.canvas",
+    "students/old/Untitled 3.canvas",
+    "students/old/Untitled 1 1.canvas",
+    "students/old/Untitled.canvas"
+  ]
+}

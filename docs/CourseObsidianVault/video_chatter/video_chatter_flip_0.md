@@ -1,0 +1,102 @@
+# Video Description: 
+The video demonstrates a professor balancing on a board while juggling, captured by a motion capture system using FreeMoCap. This setup allows for the analysis of complex coordination and timing of movements, providing insights into the neural control of human movement in natural environments. Graphs display hand movement in the x- and y-directions over time, as well as the center of gravity, limb movements, head and eye movements, and multiple camera angles.
+
+# The main task
+- Investigate the neural control of human movement during complex tasks
+- Analyze the role of the vestibular system, proprioception, and sensorimotor integration in maintaining balance and adjusting juggling movements
+- Perform juggling and balancing simultaneously
+- Coordinate movements and maintain balance through neural processes
+- Investigate the neural control of upper and lower limb movements during complex tasks like juggling and balancing
+- Generate research questions about the neural control of movement
+- Combine movement data with brain activity and eye-tracking measurements to gain insight into the neural mechanisms
+- Understand the role of practice and expertise in the neural control of such tasks
+
+# Subtasks (list up to 5-8 subtasks)
+- Understand the speed and organization of neural processing for rapid control and adjustment of movement
+  - Neuroscience (examining properties of neurons, synapses, and myelin for fast signal transmission)
+- Explore the brain's learning and anticipation of object trajectories during juggling
+  - Sensorimotor Learning (integrating sensory input and motor commands to predict and refine movements)
+- Examine changes in neural firing patterns from initial learning to practiced performance
+  - Neural Plasticity (studying how the brain refines its internal model over time)
+- Investigate the brain's ability to process balance and juggling simultaneously using different networks
+  - Neural Networks (analyzing the role of cerebellum and motor cortex in multitasking motor functions)
+- Relate observed movements to muscle activation and brain activity using motion capture and other techniques
+  - Motion Capture (combining with other methods to understand neural control and coordination of complex human movement)
+- Capture data from the video using motion capture technology and tools like Freemocap
+  - Computer Vision and Machine Learning (tracking and recording human movement)
+- Analyze complex human movements
+  - Neuroscience (understanding how the nervous system adapts to control movement in natural settings)
+- Examine the interaction between upper and lower limb movements
+  - Biomechanics (studying postural control, coordinating upper/lower limbs, anticipation and prediction, and adaptation/learning)
+
+# What kind of data is represented in the video?
+- Motion capture data of the professor balancing on a board and juggling
+- Visual data of the teacher's movements
+- Graphs of hand positions in relation to the ball
+- Graphs of hand movement in x- and y-directions over time
+- Center of gravity, limb movements, head and eye movements
+- Multiple camera angles capturing 3D movements
+- Animation data
+- Positions of juggling objects
+- Person's body movements
+- Position of the right hand, left hand, and one of the juggled balls
+- Time
+- 3D motion capture data of a human balancing while juggling
+- Visual data of a person performing a complex perceptuomotor task
+- Movement data (body movements and posture)
+- Eye-tracking data (gaze patterns)
+- 3D graphs of human movements and ball locations during juggling and balancing
+- Hand positions
+- Ball positions
+- Center of mass
+
+# Tags
+- #neural-control-of-movement
+- #sensorimotor-learning
+- #predictive-motor-control
+- #motion-capture
+- #vestibular-system
+- #proprioception
+- #sensorimotor-integration
+- #cerebellum
+- #motor-cortex
+- #neural-plasticity
+- #multitasking
+- #motor-control
+- #neural-basis
+- #simultaneous-tasks
+- #freemocap
+- #balance
+- #sensory-integration
+- #juggling
+- #wobble-board
+- #coordination
+- #human-movement
+- #biomechanics
+- #neuroscience
+- #complex-tasks
+- #motor-learning
+- #perceptuomotor-task
+- #skill-development
+- #eye-movements
+- #balance-board
+- #motor-adjustments
+- #expertise-development
+- #neural-mechanisms
+- #athletic-performance
+- #spatial-awareness
+- #body-coordination
+- #perceptuomotor-skills
+- #handedness
+- #expertise
+- #motor-skill-learning
+- #sensorimotor-integration
+- #motor-cortex-plasticity
+- #sensory-feedback
+- #motor-coordination
+- #cognitive-processing
+- #motion-tracking
+- #perceptuomotor-integration
+- #cerebellum
+- #basal-ganglia
+- #motor-cortex

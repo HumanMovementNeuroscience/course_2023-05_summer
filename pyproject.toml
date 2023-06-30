@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "main-course-repo"
+version = "0.1.0"
+description = ""
+authors = ["jonmatthis <jonmatthis@gmail.com>"]
+readme = "README.md"
+packages = [{include = "main_course_repo"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
