@@ -4,40 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d339c9f-a50a-4920-98f1-ced77f1dad6a" name="Changes" comment="add video chatter bot summaries">
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/.obsidian/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/.obsidian/appearance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/.obsidian/core-plugins-migration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/.obsidian/core-plugins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/.obsidian/hotkeys.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/.obsidian/workspace.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/appearance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/core-plugins-migration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/core-plugins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/graph.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/hotkeys.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/.obsidian/workspace.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_AT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_BL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_CC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_CK.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_DS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_ES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_GF.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_GR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_IS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_JL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_LH.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_MH.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_MV.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_PS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_RS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_SR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_TC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_UBB.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/student_summaries/video_chatter_YM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/video_chatter/video_chatter_meta_summary.md" beforeDir="false" />
+    <list default="true" id="2d339c9f-a50a-4920-98f1-ced77f1dad6a" name="Changes" comment="push green check paper summaries">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesDS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesGR.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesIS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesLH.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesPS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesSR.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesTC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_BL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_CK.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_DS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_ES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_GF.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_GR.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_IS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_J.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_LH.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_MH.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_PS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_RS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_SR.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_TC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_UBB.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_YM.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +73,19 @@
       <option name="project" value="LOCAL" />
       <updated>1687128570346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push green check paper summaries">
+      <created>1688149514982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688149514983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add video chatter bot summaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="add video chatter bot summaries" />
+    <MESSAGE value="push green check paper summaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="push green check paper summaries" />
   </component>
 </project>
