@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d339c9f-a50a-4920-98f1-ced77f1dad6a" name="Changes" comment="push green check paper summaries">
+    <list default="true" id="2d339c9f-a50a-4920-98f1-ced77f1dad6a" name="Changes" comment="push green check paper summaries - take 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesDS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesGR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesIS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesLH.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesN.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesPS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesSR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messagesTC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_BL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_CK.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_DS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_ES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_GF.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_GR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_IS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_J.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_LH.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_MH.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_PS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_RS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_SR.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_TC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_UBB.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_messages/green_check_messages_YM.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +26,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Dropbox/Northeastern/Courses/neural_control_of_real_world_human_movement/main_course_repo/docs/CourseObsidianVault"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Northeastern\Courses\neural_control_of_real_world_human_movement\main_course_repo\docs\CourseObsidianVault" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,12 +61,20 @@
       <option name="project" value="LOCAL" />
       <updated>1688149514983</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="push green check paper summaries - take 2">
+      <created>1688154466983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688154466983</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add video chatter bot summaries" />
     <MESSAGE value="push green check paper summaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="push green check paper summaries" />
+    <MESSAGE value="push green check paper summaries - take 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="push green check paper summaries - take 2" />
   </component>
 </project>
