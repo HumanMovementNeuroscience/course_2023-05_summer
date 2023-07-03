@@ -4,8 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d339c9f-a50a-4920-98f1-ced77f1dad6a" name="Changes" comment="push green check paper summaries - take 2">
+    <list default="true" id="2d339c9f-a50a-4920-98f1-ced77f1dad6a" name="Changes" comment="uploading again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/_assignment.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/_assignment_tag_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Arac_A__(2020)_Machine_Learning_for_3D_Kinematic_Analysis_of_Movements_in_Neurorehabilitation_YM.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Arac_A__(2020)_Machine_Learning_for_3D_Kinematic_Analysis_of_Movements_in_Neurorehabilitation_YM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Arriaga_&amp;_Han_2017_Dedicated_Hippocampal_Inhibitory_Networks_for_Locomotion_and_Immobility_AC.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Arriaga_&amp;_Han_2017_Dedicated_Hippocampal_Inhibitory_Networks_for_Locomotion_and_Immobility_AC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Berchicci_et_al__2017_Time-source_of_neural_plasticity_in_complex_bimanual_coordinative_tasks__Juggling_SR.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Berchicci_et_al__2017_Time-source_of_neural_plasticity_in_complex_bimanual_coordinative_tasks__Juggling_SR.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Davlin-Pater_C__(2010)_The_effects_of_visual_information_and_perceptual_style_on_static_and_dynamic_balance_RS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Davlin-Pater_C__(2010)_The_effects_of_visual_information_and_perceptual_style_on_static_and_dynamic_balance_RS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Goble_et_al__2011_Brain_activity_during_ankle_proprioceptive_stimulation_predicts_balance_performance_in_young_and_older_adults_GR.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Goble_et_al__2011_Brain_activity_during_ankle_proprioceptive_stimulation_predicts_balance_performance_in_young_and_older_adults_GR.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Huys_&amp;_Beek_2002_The_coupling_between_point-of-gaze_and_ballmovements_in_three-ball_cascade_juggling__the_effects_of_expertise,_pattern_and_tempo_LH.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Huys_&amp;_Beek_2002_The_coupling_between_point-of-gaze_and_ballmovements_in_three-ball_cascade_juggling__the_effects_of_expertise,_pattern_and_tempo_LH.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Inagaki_et_al__2022_A_midbrain-thalamus-cortex_circuit_reorganizes_cortical_dynamics_to_initiate_movement_SR.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Inagaki_et_al__2022_A_midbrain-thalamus-cortex_circuit_reorganizes_cortical_dynamics_to_initiate_movement_SR.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Matthis_et_al__2018_Gaze_and_the_control_of_foot_placement_when_walking_in_natural_terrain_J.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Matthis_et_al__2018_Gaze_and_the_control_of_foot_placement_when_walking_in_natural_terrain_J.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Nogueira_et_al__2020_Motor_learning_and_COMT_Val158met_polymorphism__Analyses_of_oculomotor_behavior_and_corticocortical_communication_CK.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Nogueira_et_al__2020_Motor_learning_and_COMT_Val158met_polymorphism__Analyses_of_oculomotor_behavior_and_corticocortical_communication_CK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Ostry_et_al__2016_Sensory_Plasticity_in_Human_Motor_Learning_RS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Ostry_et_al__2016_Sensory_Plasticity_in_Human_Motor_Learning_RS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Reinold_et_al__2018_Effect_of_a_6-Week_Weighted_Baseball_Throwing_Program_on_Pitch_Velocity,_Pitching_Arm_Biomechanics,_Passive_Range_of_Motion,_and_Injury_Rates_TC.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Reinold_et_al__2018_Effect_of_a_6-Week_Weighted_Baseball_Throwing_Program_on_Pitch_Velocity,_Pitching_Arm_Biomechanics,_Passive_Range_of_Motion,_and_Injury_Rates_TC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Robertson_et_al__2007_Robust_coupling_of_body_movement_and_gaze_in_young_infants_DS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Robertson_et_al__2007_Robust_coupling_of_body_movement_and_gaze_in_young_infants_DS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Scharfen_&amp;_Memmert_(2019)_The_Relationship_Between_Cognitive_Functions_and_Sport-Specific_Motor_Skills_in_Elite_Youth_Soccer_Players_IS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Scharfen_&amp;_Memmert_(2019)_The_Relationship_Between_Cognitive_Functions_and_Sport-Specific_Motor_Skills_in_Elite_Youth_Soccer_Players_IS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Schmid_et_al__2021_Identifying_Motor_Control_Strategies_and_Their_Role_in_Low_Back_Pain__A_Cross-Disciplinary_Approach_Bridging_Neurosciences_With_Movement_Biomechanics_ES.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Schmid_et_al__2021_Identifying_Motor_Control_Strategies_and_Their_Role_in_Low_Back_Pain__A_Cross-Disciplinary_Approach_Bridging_Neurosciences_With_Movement_Biomechanics_ES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Smith_et_al__2006_Use_of_eye_movements_for_video_game_control_BL.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Smith_et_al__2006_Use_of_eye_movements_for_video_game_control_BL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Steven_Brown_et_al__2006_The_Neural_Basis_of_Human_Dance_MV.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Steven_Brown_et_al__2006_The_Neural_Basis_of_Human_Dance_MV.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Sánchez-Tena_et_al__2023_Comparison_of_Visual_Skills_between_Federated_and_Non-Federated_Athletes_UBB.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Sánchez-Tena_et_al__2023_Comparison_of_Visual_Skills_between_Federated_and_Non-Federated_Athletes_UBB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/Thier_&amp;_Markanday_2019_Role_of_the_Vermal_Cerebellum_in_Visually_Guided_Eye_Movements_and_Visual_Motion_Perception_GF.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/Thier_&amp;_Markanday_2019_Role_of_the_Vermal_Cerebellum_in_Visually_Guided_Eye_Movements_and_Visual_Motion_Perception_GF.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/__PS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/__PS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/cognitive-flexibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/summaries/van_Vliet_&amp;_Heneghan_2006_Motor_control_and_the_management_of_musculoskeletal_dysfunction_MH.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/summaries/van_Vliet_&amp;_Heneghan_2006_Motor_control_and_the_management_of_musculoskeletal_dysfunction_MH.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/balance.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/balance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/biomechanics.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/biomechanics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/cerebellum.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/cerebellum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/cognitive-flexibility,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/cognitive-flexibility,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/cognitive-neuroscience.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/cognitive-neuroscience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/coordination.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/coordination.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/data-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/data-analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/dynamic-balance.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/dynamic-balance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/eye-movement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/eye-movement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/eye-movements.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/eye-movements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/eye-tracking.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/eye-tracking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/hippocampus.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/hippocampus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/juggling.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/juggling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/locomotion.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/locomotion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/motion-capture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/motion-capture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/motor-control,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/motor-control,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/motor-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/motor-control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/motor-cortex.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/motor-cortex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/motor-learning,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/motor-learning,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/movement-pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/movement-pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/musculoskeletal.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/musculoskeletal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/natural-interaction.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/natural-interaction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/neural-circuit.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/neural-circuit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/neural-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/neural-control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/neural-plasticity.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/neural-plasticity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/neuroscience,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/neuroscience,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/neuroscience.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/neuroscience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/oculomotor-behavior,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/oculomotor-behavior,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/oculomotor-control,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/oculomotor-control,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/oculomotor-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/oculomotor-control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/perception.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/perception.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/perceptuomotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/perceptuomotor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/perceputomotor.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/perceputomotor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/posture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/posture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/predictive-motor-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/predictive-motor-control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/prefrontal-cortex,.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/prefrontal-cortex,.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/proprioception.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/proprioception.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/real-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/real-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/sensorimotor-integration.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/sensorimotor-integration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/sensory-integration.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/sensory-integration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/static-balance.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/static-balance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/vision.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/vision.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/visual-attention.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/visual-attention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/visual-cues.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/visual-cues.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/paper_summaries/tags/visual-neuroscience.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CourseObsidianVault/green_check_paper_summaries/tags/visual-neuroscience.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,15 +93,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Dropbox/Northeastern/Courses/neural_control_of_real_world_human_movement/main_course_repo/docs/CourseObsidianVault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dropbox/Northeastern/Courses/neural_control_of_real_world_human_movement/main_course_repo/docs/CourseObsidianVault&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Northeastern\Courses\neural_control_of_real_world_human_movement\main_course_repo\docs\CourseObsidianVault" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Northeastern\Courses\neural_control_of_real_world_human_movement\main_course_repo\docs\CourseObsidianVault\green_check_paper_summaries" />
       <recent name="D:\Dropbox\Northeastern\Courses\neural_control_of_real_world_human_movement\main_course_repo\docs\CourseObsidianVault" />
     </key>
   </component>
@@ -68,13 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688154466983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uploading again">
+      <created>1688252104481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688252104481</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add video chatter bot summaries" />
     <MESSAGE value="push green check paper summaries" />
     <MESSAGE value="push green check paper summaries - take 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="push green check paper summaries - take 2" />
+    <MESSAGE value="uploading again" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploading again" />
   </component>
 </project>
