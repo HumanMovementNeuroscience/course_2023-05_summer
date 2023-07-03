@@ -6,7 +6,7 @@
 
  Here is a refined summary incorporating the additional details:
 
-The 57-second video titled “-The FreeMoCap Project-” shows a man juggling three balls while balancing on a board atop a cylinder. His movements are tracked and visualized in several ways:  
+The 57-second video titled The FreeMoCap Project shows a man juggling three balls while balancing on a board atop a cylinder. His movements are tracked and visualized in several ways:  
 
 1) Hand and ball position over time are plotted on vertical and horizontal position graphs. This shows the spatial coordination and timing involved in the task. The regular pattern in the top graph suggests consistency in the juggling movements, while the less uniform bottom graph indicates continuous balance adjustments. 
 
@@ -33,7 +33,7 @@ In summary, the video and data demonstrate and provide insights into the complex
 ## Schematized student_summary
 
 # Video Description: 
-The 57-second video titled “-The FreeMoCap Project-” features a man juggling three balls while balancing on a board atop a cylinder. His movements are tracked and visualized in various ways, including hand and ball position graphs, center of gravity and limb movements, and multiple camera angles.
+The 57-second video titled The FreeMoCap Project features a man juggling three balls while balancing on a board atop a cylinder. His movements are tracked and visualized in various ways, including hand and ball position graphs, center of gravity and limb movements, and multiple camera angles.
 
 # The main task
  - Investigate the complex coordination and neural control required for a perceptuomotor task like juggling while balancing

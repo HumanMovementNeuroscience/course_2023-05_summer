@@ -12,7 +12,7 @@
 
 - The assistant suggests searching research databases for articles on "neural mechanisms", "athletic performance", "multitasking", "spatial awareness", and "body coordination". The student finds an article on the effects of brain endurance training in football players.
 
-- The article investigates how brain endurance training—combining physical and mental exercises—can improve physical, cognitive, and multitasking performance in athletes. The results show that the brain endurance training group outperformed the control group on measures of physical fitness, cognition, and multitasking. The brain endurance training seems to enhance performance during preseason training.
+- The article investigates how brain endurance trainingï¿½combining physical and mental exercises can improve physical, cognitive, and multitasking performance in athletes. The results show that the brain endurance training group outperformed the control group on measures of physical fitness, cognition, and multitasking. The brain endurance training seems to enhance performance during preseason training.
 
 - In summary, the exchange explores how neural mechanisms involved in spatial awareness, multitasking, and motor control can be harnessed through targeted training to improve athletic performance. The article provides evidence that brain endurance training is effective for this purpose.
 
