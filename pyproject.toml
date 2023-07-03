@@ -8,6 +8,8 @@ packages = [{include = "main_course_repo"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+mkdocs = "^1.4.3"
+mkdocs-material = "^9.1.18"
 
 
 [build-system]
