@@ -1,6 +1,9 @@
 ## Student generated paper summaries
 [Assignment definition available here:](https://discord.com/channels/1103650795213303828/1120139711160254474/1120139711160254474) 
 
+![image](https://github.com/NeuralControlHumanMovement-2023-Summer1/main_course_repo/assets/15314521/3b108734-3a37-43a8-b32d-8a203eb35f15)
+
+### Assignment text: 
 
 >Watch this video: REDACTED
 
