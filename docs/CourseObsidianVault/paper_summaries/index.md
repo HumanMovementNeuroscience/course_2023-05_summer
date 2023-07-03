@@ -1,9 +1,13 @@
 ## Student generated paper summaries
-[Assignment definition available here:](https://discord.com/channels/1103650795213303828/1120139711160254474/1120139711160254474) 
 
-![image](https://github.com/NeuralControlHumanMovement-2023-Summer1/main_course_repo/assets/15314521/3b108734-3a37-43a8-b32d-8a203eb35f15)
+Download [this folder](https://github.com/NeuralControlHumanMovement-2023-Summer1/main_course_repo/blob/7f5ea23258764ecc1f1ace7f2d528de871ea50ca/docs/CourseObsidianVault/paper_summaries) and open "graph view" to see connections between the tags and topics in these summaries
+
+![image](https://github.com/NeuralControlHumanMovement-2023-Summer1/main_course_repo/assets/15314521/973aa69e-6b77-45d1-a33a-73b500ad8443)
+
+
 
 ### Assignment text: 
+[Assignment definition available here:](https://discord.com/channels/1103650795213303828/1120139711160254474/1120139711160254474) 
 
 >Watch this video: REDACTED
 
